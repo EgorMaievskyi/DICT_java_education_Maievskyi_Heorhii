@@ -1,4 +1,6 @@
 public class Test {
-    public static void main(String[] args) { gSystem.out.println("Java");
+    public static void main(String[] args) {
+        System.out.println("Java Education");
+
     }
 }
